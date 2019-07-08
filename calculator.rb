@@ -1,2 +1,2 @@
 # Add your variables here
-1 + 1
+first_number = 1 + 1
